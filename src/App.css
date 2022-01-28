@@ -1,0 +1,12 @@
+.clear {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  cursor: pointer;
+}
+.dark {
+  position: absolute;
+  left: 90%;
+}
